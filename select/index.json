@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Last Forever",
+  "base_artist": "i-dle (아이들)",
+  "createdAt": "2026-03-11T10:16:03.159170Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Last Forever",
+      "artist": "Molly Nilsson",
+      "has_synced": true,
+      "path": "select/01_Last_Forever_Molly_Nilsson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "We Can Last Forever",
+      "artist": "Chicago",
+      "has_synced": true,
+      "path": "select/02_We_Can_Last_Forever_Chicago.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "We Can Last Forever - 2009 Remaster",
+      "artist": "Chicago",
+      "has_synced": false,
+      "path": "select/03_We_Can_Last_Forever_-_2009_Remaster_Chicago.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Last Forever",
+      "artist": "The Naked and Famous",
+      "has_synced": false,
+      "path": "select/04_Last_Forever_The_Naked_and_Famous.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Last Forever (Stripped)",
+      "artist": "The Naked and Famous",
+      "has_synced": true,
+      "path": "select/05_Last_Forever_(Stripped)_The_Naked_and_Famous.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sick Priest Learns to Last Forever",
+      "artist": "Destroyer",
+      "has_synced": false,
+      "path": "select/06_Sick_Priest_Learns_to_Last_Forever_Destroyer.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Freedom Don't Last Forever",
+      "artist": "Golden Earring",
+      "has_synced": false,
+      "path": "select/07_Freedom_Don't_Last_Forever_Golden_Earring.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Love Is Meant To Last Forever",
+      "artist": "John Norum",
+      "has_synced": true,
+      "path": "select/08_Love_Is_Meant_To_Last_Forever_John_Norum.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Who Said It Would Last Forever",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/09_Who_Said_It_Would_Last_Forever_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Who Said It Would Last Forever",
+      "artist": "Jon Bon Jovi",
+      "has_synced": true,
+      "path": "select/10_Who_Said_It_Would_Last_Forever_Jon_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Want This Night (To Last Forever)",
+      "artist": "Twisted Sister",
+      "has_synced": true,
+      "path": "select/11_I_Want_This_Night_(To_Last_Forever)_Twisted_Sister.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Last Forever",
+      "artist": "Echosmith",
+      "has_synced": true,
+      "path": "select/12_Last_Forever_Echosmith.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "At Last, Forever",
+      "artist": "Jethro Tull",
+      "has_synced": true,
+      "path": "select/13_At_Last,_Forever_Jethro_Tull.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Last Forever",
+      "artist": "i-dle",
+      "has_synced": false,
+      "path": "select/pl_01_Last_Forever_i-dle.txt"
+    }
+  ]
+}
